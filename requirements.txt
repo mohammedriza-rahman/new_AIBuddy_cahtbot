@@ -1,0 +1,9 @@
+streamlit
+requests
+pillow
+langchain
+langchain-community
+chromadb
+pypdf
+ollama
+
